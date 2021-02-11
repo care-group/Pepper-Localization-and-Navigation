@@ -1,5 +1,4 @@
-# BSc-G-002
-Pepper Localization and Navigation 
+# Pepper Localization and Navigation
 
 The automatic navigation function is mainly divided into two steps: First step: Exploration and Mapping. Second step: Localization and Navigation.
 
